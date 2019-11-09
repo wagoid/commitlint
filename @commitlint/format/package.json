@@ -40,6 +40,6 @@
     "typescript": "3.6.4"
   },
   "dependencies": {
-    "chalk": "^2.0.1"
+    "chalk": "^3.0.0"
   }
 }
