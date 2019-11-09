@@ -89,7 +89,7 @@
     "jest": "24.8.0",
     "lerna": "3.18.3",
     "lint-staged": "8.2.1",
-    "prettier": "1.17.1",
+    "prettier": "1.19.1",
     "ts-jest": "24.1.0",
     "typescript": "3.6.4"
   },
